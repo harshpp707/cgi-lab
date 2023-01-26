@@ -10,6 +10,6 @@
 
 6) HTTP_COOKIE
 
-7) Cookies are used to store information about anyone accessing some website don't have to repeate same tasks every time like logging in.
+7) Cookies are used to store information about anyone accessing some website don't have to repeat same tasks every time like logging in.
 
 8) https://github.com/harshpp707/cgi-lab/tree/master
