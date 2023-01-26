@@ -1,0 +1,15 @@
+1) To print out all the environment we can use this statement '''print(os.environ)'''
+
+2) The name of the parameter is QUERY_STRING
+
+3) HTTP_USER_AGENT
+
+4) We can use cgi.FieldStorage() to read the POST data. So Posted data refreshes the page and CGI picks up on this data and renders it accordingly.
+
+5) Set-Cookie: [nameOfCookie]=[valueOfCookie]
+
+6) HTTP_COOKIE
+
+7) Cookies are used to store information about anyone accessing some website don't have to repeate same tasks every time like logging in.
+
+8) https://github.com/harshpp707/cgi-lab/tree/master
